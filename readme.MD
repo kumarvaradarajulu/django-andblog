@@ -1,1 +1,1 @@
-A New approach to Blogging
+A New approach to Blogging. A complete blogging solution
